@@ -1,0 +1,22 @@
+[
+  {
+    "kind": 1,
+    "language": "markdown",
+    "value": "# My Issues"
+  },
+  {
+    "kind": 1,
+    "language": "markdown",
+    "value": "## Config"
+  },
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "$repos=repo:microsoft/vscode\n$mine=assignee:@me"
+  },
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "$repos $mine is:issue state:open"
+  }
+]
