@@ -1,2 +1,2 @@
-# notebooks
+# notebooks playground
 Playground for notebooks
